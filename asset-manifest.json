@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/paint-app/static/css/main.7a7d36e0.chunk.css",
+    "main.js": "/paint-app/static/js/main.54163c32.chunk.js",
+    "main.js.map": "/paint-app/static/js/main.54163c32.chunk.js.map",
+    "runtime-main.js": "/paint-app/static/js/runtime-main.d64062cc.js",
+    "runtime-main.js.map": "/paint-app/static/js/runtime-main.d64062cc.js.map",
+    "static/js/2.97fa161c.chunk.js": "/paint-app/static/js/2.97fa161c.chunk.js",
+    "static/js/2.97fa161c.chunk.js.map": "/paint-app/static/js/2.97fa161c.chunk.js.map",
+    "index.html": "/paint-app/index.html",
+    "precache-manifest.f81069ffbcdb47b6b96657fbfbc49dd2.js": "/paint-app/precache-manifest.f81069ffbcdb47b6b96657fbfbc49dd2.js",
+    "service-worker.js": "/paint-app/service-worker.js",
+    "static/css/main.7a7d36e0.chunk.css.map": "/paint-app/static/css/main.7a7d36e0.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d64062cc.js",
+    "static/js/2.97fa161c.chunk.js",
+    "static/css/main.7a7d36e0.chunk.css",
+    "static/js/main.54163c32.chunk.js"
+  ]
+}
